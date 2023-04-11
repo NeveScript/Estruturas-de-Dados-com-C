@@ -1,0 +1,3 @@
+C:/Users/giova/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir
+C:/Users/giova/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giova/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
